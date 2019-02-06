@@ -1,4 +1,4 @@
-# geotools-java
+# geotools-node-wrapper
 
 node.js wrapper for geotools Java library
 
