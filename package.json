@@ -1,0 +1,28 @@
+{
+  "name": "geotools-node-wrapper",
+  "version": "1.0.0",
+  "description": "node.js wrapper for geotools Java library",
+  "main": "index.js",
+  "scripts": {
+    "install": "git clone https://github.com/jimgambale/geotools --branch vpf-update",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimgambale/geotools-node-wrapper.git"
+  },
+  "keywords": [
+    "geotools",
+    "java",
+    "shapefile",
+    "geospatial",
+    "gis",
+    "ogc"
+  ],
+  "author": "James R. Gambale, Jr.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimgambale/geotools-node-wrapper/issues"
+  },
+  "homepage": "https://github.com/jimgambale/geotools-node-wrapper#readme"
+}
