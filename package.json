@@ -4,7 +4,7 @@
   "description": "node.js wrapper for geotools Java library",
   "main": "index.js",
   "scripts": {
-    "install": "git clone https://github.com/jimgambale/geotools --branch vpf-update",
+    "install": "git clone https://github.com/jimgambale/geotools --branch vpf-update && cp pom.xml geotools/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
